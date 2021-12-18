@@ -1,7 +1,7 @@
 #KeyboardO {
     cursor: pointer; 
-     height: 49px;
-     width:50px;
+     height: 24px;
+     width:25px;
     margin-left: 10px;
     font-family: cursive;
     font-size: 15px;
@@ -15,7 +15,7 @@
 #Save {
     cursor: pointer; 
      height: 29px;
-     width:150px;
+     width:25px;
     margin-left: 10px;
 font-family: cursive;
     font-size: 15px;
